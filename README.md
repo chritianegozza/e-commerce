@@ -4,6 +4,7 @@ Criação de um projeto do bootcamp da Hiring Coders, um site de e-commerce
 
 Foto do projeto 
 
+![image](https://user-images.githubusercontent.com/72118415/123754864-b399f100-d891-11eb-981a-139992d81fc2.png)
 
 
 ------------------------------------------------------------------------------------------------------------------
